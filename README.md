@@ -56,7 +56,7 @@ Experienced in Python and Node.js for back-end development, and React and React 
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/ThiagoBaso/ThiagoBaso/main/assets/metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
